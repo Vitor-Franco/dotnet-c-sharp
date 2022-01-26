@@ -16,12 +16,14 @@
     <None Remove="Views\Departments\" />
     <None Remove="Pomelo.EntityFrameworkCore.MySql" />
     <None Remove="Models\Enums\" />
+    <None Remove="Services\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\ViewModels\" />
     <Folder Include="Data\" />
     <Folder Include="Views\Departments\" />
     <Folder Include="Models\Enums\" />
+    <Folder Include="Services\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="Views\Departments\Create.cshtml" />
