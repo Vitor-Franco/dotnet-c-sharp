@@ -17,6 +17,7 @@
     <None Remove="Pomelo.EntityFrameworkCore.MySql" />
     <None Remove="Models\Enums\" />
     <None Remove="Services\" />
+    <None Remove="Views\Sellers\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\ViewModels\" />
@@ -24,8 +25,10 @@
     <Folder Include="Views\Departments\" />
     <Folder Include="Models\Enums\" />
     <Folder Include="Services\" />
+    <Folder Include="Views\Sellers\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="Views\Departments\Create.cshtml" />
+    <Content Remove="Views\Sellers\Index.cshtml" />
   </ItemGroup>
 </Project>
