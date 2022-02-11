@@ -24,8 +24,6 @@
     <Folder Include="Data\" />
     <Folder Include="Views\Departments\" />
     <Folder Include="Models\Enums\" />
-    <Folder Include="Services\" />
-    <Folder Include="Views\Sellers\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="Views\Departments\Create.cshtml" />
